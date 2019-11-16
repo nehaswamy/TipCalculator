@@ -9,6 +9,10 @@
 * Currency updates to dollars, pounds, or rupees depending on location of user 
 * Total and tip amount automatically update as user enters bill amount
 
+## Walkthrough
+
+<img src="https://github.com/nehaswamy/Flix/blob/master/Flix-Part2.gif" width=250><br>
+
 ## Languages & Technologies
 * Swift 5.0.2
 * XCode 10.3 
