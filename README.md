@@ -1,4 +1,4 @@
-# TipCalculator
+# Tip Calculator
 
 ## About 
 * This tip calculator allows users to enter their bill amount and calculate the total after applying a 15%, 18%, or 20% tip.
@@ -11,7 +11,7 @@
 
 ## Walkthrough
 
-<img src="https://github.com/nehaswamy/Flix/blob/master/Flix-Part2.gif" width=250><br>
+<img src="https://github.com/nehaswamy/TipCalculator/blob/master/TipCalculatorGif.mp4" width=250><br>
 
 ## Languages & Technologies
 * Swift 5.0.2
